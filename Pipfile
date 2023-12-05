@@ -1,0 +1,12 @@
+[[source]]
+url = "https://5l0e5y5y2k-vpce-057e97ceef2735287.execute-api.eu-west-1.amazonaws.com/primary/packages/python"
+verify_ssl = true
+name = "pip_conf_index_:env:"
+
+[packages]
+ipykernel = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
